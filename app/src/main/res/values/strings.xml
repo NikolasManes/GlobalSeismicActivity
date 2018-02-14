@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Global Seismic Activity</string>
+    <!-- Text to display in the list when there are no earthquakes [CHAR LIMIT=NONE] -->
+    <string name="no_earthquakes">No earthquakes found.</string>
+    <!-- Text to display in the list when there are no internet connection [CHAR LIMIT=NONE] -->
+    <string name="no_internet">No Internet Connection</string>
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">Earthquake Settings</string>
+    <!-- Strings For Minimum Magnitude Preference [CHAR LIMIT=30] -->
+    <string name="settings_min_magnitude_label">Minimum Magnitude</string>
+    <string name="settings_min_magnitude_key" translatable="false">min_magnitude</string>
+    <string name="settings_min_magnitude_default" translatable="false">0</string>
+    <!-- Strings For Minimum Magnitude Preference [CHAR LIMIT=30] -->
+    <string name="settings_start_date_label">From : </string>
+    <string name="settings_start_date_key" translatable="false">start_date</string>
+    <string name="settings_start_date_default" translatable="false">0</string>
+    <!-- Strings For Minimum Magnitude Preference [CHAR LIMIT=30] -->
+    <string name="settings_end_date_label">Till :</string>
+    <string name="settings_end_date_key" translatable="false">end_date</string>
+    <string name="settings_end_date_default" translatable="false">0</string>
+    <!-- Strings For Minimum Magnitude Preference [CHAR LIMIT=30] -->
+    <string name="settings_location_label">Location</string>
+    <string name="settings_location_key" translatable="false">location</string>
+    <string name="settings_location_default" translatable="false">0</string>
+    <!-- Strings For Minimum Magnitude Preference [CHAR LIMIT=30] -->
+    <string name="settings_max_radius_label">Maximum Radius</string>
+    <string name="settings_max_radius_key" translatable="false">max_radius</string>
+    <string name="settings_max_radius_default" translatable="false">0</string>
+
+</resources>
